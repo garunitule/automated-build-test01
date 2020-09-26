@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHER="No Name"
+ENV AUTHOR="No Name"
 
